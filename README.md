@@ -1,37 +1,26 @@
-🗂 Projeto Gerenciador de Tarefas - MVC
-
-Este é um projeto simples de um sistema de gerenciamento de tarefas, desenvolvido em Java utilizando o padrão de arquitetura MVC (Model - View - Controller). Ele permite que o usuário crie uma conta, faça login e adicione tarefas com título, descrição, data e status de conclusão.
+🗂️ Gerenciador de Tarefas - MVC
+Este é um projeto simples de um sistema de gerenciamento de tarefas, desenvolvido em Java utilizando o padrão de arquitetura MVC (Model - View - Controller). O sistema permite o cadastro de usuários, login seguro e o gerenciamento de tarefas pessoais, com funcionalidades intuitivas em uma interface gráfica feita com Java Swing.
 
 ✅ Funcionalidades
+👤 Cadastro de novos usuários
 
-Cadastro de novo usuário
+🔐 Login de usuários existentes
 
-Login de usuário
+✅ Criação de tarefas com título, descrição, data e status
 
-Criação de tarefas
+📋 Listagem das tarefas cadastradas
 
-Exibição de tarefas cadastradas
+✔️ Marcar tarefas como concluídas
 
-Marcar tarefa como concluída
-
-Limpar campos após adicionar tarefa
+🧹 Limpeza automática dos campos após adicionar tarefas
 
 🛠 Tecnologias Utilizadas
+💻 Java 17
 
-Java 17
+🧠 Paradigma de Programação Orientada a Objetos (POO)
 
-IDE: NetBeans 25
+🧱 Padrão de Arquitetura MVC
 
-Paradigma orientado a objetos
+🎨 Interfaces com Java Swing (javax.swing)
 
-Arquitetura MVC
-
-📁 Estrutura do Projeto
-
-model → Contém as classes que representam os dados do sistema (Usuário, Tarefa)
-
-controller → Contém a lógica de controle e manipulação dos dados
-
-view → Interfaces gráficas feitas com javax.swing
-
-util → Classe auxiliar com métodos reutilizáveis
+🧰 IDE: NetBeans 25
