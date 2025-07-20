@@ -21,3 +21,8 @@ Este é um projeto simples de um **sistema de gerenciamento de tarefas**, desenv
 
 ## 📁 Estrutura do Projeto
 
+- `model` → Contém as classes que representam os dados do sistema (**Usuário**, **Tarefa**)  
+- `controller` → Contém a lógica de controle e manipulação dos dados  
+- `view` → Interfaces gráficas feitas com `javax.swing`  
+- `util` → Classe auxiliar com métodos reutilizáveis
+
